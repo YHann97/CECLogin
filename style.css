@@ -1,0 +1,50 @@
+body{
+  color:#ffffff;
+  background: #222222;
+  font-family: SF Pro Display;
+}
+
+.main_div{
+  font-family: SF Pro Display;
+	width: 80%;
+	margin: 0 auto;   
+	text-align: center;   
+  
+}
+
+.loggedin_div{
+  font-family: SF Pro Display;
+	width: 80%;
+	margin: 0 auto;  
+	text-align: center;  
+}
+
+.btn{
+width: 180px;
+display: inline-block;
+margin: 5% 20px;
+padding: 20px 0px;
+text-align: center;
+text-decoration: none;
+position: relative;
+}
+
+#Loginbtn{
+  font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto,
+    sans-serif;
+  border: 4px solid #80c904;
+  width: 70px;
+  padding: 5px 0px;
+  border-radius: 10px;
+  color:  #80c904;
+}
+
+#Logoutbtn{
+  font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto,
+    sans-serif;
+  border: 4px solid #80c904;
+  width: 70px;
+  padding: 5px 0px;
+  border-radius: 10px;
+  color:  #80c904;
+}
